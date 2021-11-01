@@ -1,6 +1,6 @@
 # Database
 
-# MYSQl
+# MYSQL
   https://tecadmin.net/bash-script-mysql-database-backup/
   
 # Phpmyadmin 
