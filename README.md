@@ -10,3 +10,6 @@
 # Mongodb
 
   https://tecadmin.net/shell-script-backup-mongodb-database/
+  
+# Phpmyadmin this is for nginx
+   https://websiteforstudents.com/how-to-install-phpmyadmin-on-ubuntu-linux-with-nginx/
