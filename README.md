@@ -2,7 +2,7 @@
 
 # MYSQL
   
-   digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql ---> This is for set password 
+   https://digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql ---> This is for set password 
   https://tecadmin.net/bash-script-mysql-database-backup/
   
 # Phpmyadmin 
