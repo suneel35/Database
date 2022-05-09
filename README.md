@@ -1,5 +1,8 @@
 # Database
 
+s3 automatically delete old files
+https://lepczynski.it/en/aws_en/automatically-delete-old-files-from-aws-s3/
+
 # MYSQL
   
    https://digitalocean.com/community/tutorials/how-to-create-a-new-user-and-grant-permissions-in-mysql ---> This is for set password 
